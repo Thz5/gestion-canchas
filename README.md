@@ -63,5 +63,6 @@ El proyecto se organiza en módulos separados para mejorar la mantenibilidad:
 
 # Nota
 
-- Este proyecto forma parte de mi aprendizaje en programación y desarrollo de sistemas en C++. 
+- Este proyecto forma parte de mi aprendizaje en programación y desarrollo de sistemas en C++.
+- Actualmente estoy tratando de integrar una base de datos y automatización ocn Python e IA.
 - Dejé el informe del proyecto en Word. Hay ideas que surgieron durante el desarrollo que no se detallaron a fondo en el documento final.
