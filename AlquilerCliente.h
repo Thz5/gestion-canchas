@@ -1,0 +1,6 @@
+#ifndef ALQUILERCLIENTE_H_INCLUDED
+#define ALQUILERCLIENTE_H_INCLUDED
+
+int pedirClienteValido();
+
+#endif // ALQUILERCLIENTE_H_INCLUDED
